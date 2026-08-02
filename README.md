@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Epciba
 
 HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full-Stack+Developer;MERN+Stack+Enthusiast)](https://git.io/typing-svg)
 
@@ -16,17 +16,36 @@ HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/epciba) <br/> [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/epciba-io) <br/> [<img src="https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:epciba654@gmail.com)
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/express-js.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+### 🧰 Skills & Tools
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.icons8.com/color/480/null/jira.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman-api.png"/>
+**Programming Languages**
+![HTML5](https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-A855F7?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-A855F7?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-A855F7?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Postman](https://img.shields.io/badge/Postman-A855F7?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-A855F7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-181717?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-A855F7?style=for-the-badge&logo=netlify&logoColor=white)
-![npm](https://img.shields.io/badge/npm-A855F7?style=for-the-badge&logo=npm&logoColor=white)
+**Frameworks & Libraries**
+![Node.js](https://img.shields.io/badge/Node.js-A855F7?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-A855F7?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-A855F7?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-A855F7?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-A855F7?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Version Control**
+![GitHub](https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white)
+
+**Development & IT Tools**
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-A855F7?style=for-the-badge&logo=visualstudio&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-A855F7?style=for-the-badge&logo=xampp&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-A855F7?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-A855F7?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-A855F7?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### 📊 GitHub Stats
 ![Epciba's GitHub stats](https://github-readme-stats.vercel.app/api?username=epciba-io&theme=dracula&show_icons=true&hide=issues,contribs&title_color=A855F7&icon_color=A855F7)
