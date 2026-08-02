@@ -1,7 +1,6 @@
 ## Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30" alt="waving hand"/> It's me Epciba
 
 HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
-![3D contribution graph](https://raw.githubusercontent.com/epciba-io/epciba-io/main/profile-3d-contrib/profile-night-green.svg)
 <img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full-Stack+Developer;MERN+Stack+Enthusiast)](https://git.io/typing-svg)
@@ -26,7 +25,6 @@ HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 ![PHP](https://img.shields.io/badge/PHP-A855F7?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-A855F7?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
 #### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-A855F7?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-A855F7?style=for-the-badge&logo=express&logoColor=white)
@@ -48,15 +46,17 @@ HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-A855F7?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-A855F7?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
 ### 📊 GitHub Stats
 ![Epciba's GitHub stats](https://github-readme-stats.vercel.app/api?username=epciba-io&theme=dracula&show_icons=true&hide=issues,contribs&title_color=A855F7&icon_color=A855F7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epciba-io&layout=compact&theme=dracula&title_color=A855F7)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=epciba-io&theme=dracula&ring=A855F7&fire=A855F7)
+![GitHub Streak](https://streak-stats.demolab.com/?user=epciba-io&theme=dracula&ring=A855F7&fire=A855F7)
 
 ### 🏆 Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=epciba-io&theme=dracula&no-frame=true&row=1&column=6)
+
+### 🧊 3D Contribution Graph
+![3D contribution graph](https://raw.githubusercontent.com/epciba-io/epciba-io/main/profile-3d-contrib/profile-night-green.svg)
 
 ### 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=epciba-io&theme=dracula&color=A855F7&line=A855F7&point=ffffff)
