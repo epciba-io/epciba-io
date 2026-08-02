@@ -1,4 +1,4 @@
-Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30" alt="waving hand"/> It's me Epciba
+## Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30" alt="waving hand"/> It's me Epciba
 
 HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -24,6 +24,10 @@ HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 ![JavaScript](https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-A855F7?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-A855F7?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/da/1d/dc/da1ddc79b5d815b6260855536c3df8fd.gif" width="450"/>
+</p>
 
 **Frameworks & Libraries**
 ![Node.js](https://img.shields.io/badge/Node.js-A855F7?style=for-the-badge&logo=node.js&logoColor=white)
