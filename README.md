@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Epciba
+Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30" alt="waving hand"/> It's me Epciba
 
 HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
