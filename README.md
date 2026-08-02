@@ -1,10 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi,%20I'm%20Epciba%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn)
+## Hi there 👋 It's me Epciba
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=HNDIT+Student;Aspiring+Software+Engineer;Full-Stack+Developer;Always+Learning+%F0%9F%8C%B8" alt="Typing SVG" />
-</p>
+HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/aditya-rana06/aditya-rana06/output/pink-cat-coding.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full-Stack+Developer;MERN+Stack+Enthusiast)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=epciba-io&color=2E9EF7&style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/Open%20to-Internships-2E9EF7?style=for-the-badge)
 
 - 🎓 Currently pursuing my **Higher National Diploma in Information Technology (HNDIT)** at Advanced Technological Institute, Trincomalee
 - 🔭 Working on **Workmate**, a full-stack household employee booking service system
@@ -12,45 +14,28 @@
 - 💡 Interested in full-stack development and writing clean, reliable code
 - 📍 Based in Trincomalee, Sri Lanka
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-F7A8B8?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/epciba) <br/> [<img src="https://img.shields.io/badge/GitHub-C7CEEA?style=for-the-badge&logo=github&logoColor=black" />](https://github.com/epciba-io) <br/> [<img src="https://img.shields.io/badge/Gmail-F72585?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:epciba654@gmail.com)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-2E9EF7?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/epciba) <br/> [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/epciba-io) <br/> [<img src="https://img.shields.io/badge/Gmail-2E9EF7?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:epciba654@gmail.com)
 
-<br clear="right"/>
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/express-js.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
-### 💗 I code in
-![Java](https://img.shields.io/badge/Java-F7A8B8?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFDAC1?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-E2CFEA?style=for-the-badge&logo=php&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-FFB7B2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-C7CEEA?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-E2CFEA?style=for-the-badge&logo=bootstrap&logoColor=black)
-![React](https://img.shields.io/badge/React-B5EAD7?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-C7CEEA?style=for-the-badge&logo=node.js&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-F7A8B8?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-B5EAD7?style=for-the-badge&logo=mysql&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFDAC1?style=for-the-badge&logo=mongodb&logoColor=black)
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.icons8.com/color/480/null/jira.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman-api.png"/>
 
-### 🎀 IDE & Tools I Use
-![VS Code](https://img.shields.io/badge/VS%20Code-F7A8B8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FFB7B2?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-E2CFEA?style=for-the-badge&logo=figma&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-C7CEEA?style=for-the-badge&logo=jira&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FFDAC1?style=for-the-badge&logo=postman&logoColor=black)
-
-### 📌 Featured Projects
-**🏠 Workmate — Household Employee Booking Service System**
-Full-stack MERN app with user registration/login, service filtering, complaint handling, worker ratings, and activity tracking. *(Final-year individual project)*
-
-**🛍️ StyleSpot — E-Commerce Website for Clothes**
-Responsive static e-commerce site with a homepage, product catalog, and product detail pages.
+![Postman](https://img.shields.io/badge/Postman-2E9EF7?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-2E9EF7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-181717?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-2E9EF7?style=for-the-badge&logo=netlify&logoColor=white)
+![npm](https://img.shields.io/badge/npm-2E9EF7?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epciba-io&show_icons=true&theme=radical&hide=issues,contribs&title_color=F72585&icon_color=F7A8B8&text_color=ffffff&bg_color=1a1a2e" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=epciba-io&theme=radical&hide_border=true&background=1a1a2e&ring=F72585&fire=F7A8B8&currStreakLabel=F7A8B8" height="165"/>
-</p>
+![Epciba's GitHub stats](https://github-readme-stats.vercel.app/api?username=epciba-io&theme=tokyonight&show_icons=true&hide=issues,contribs&title_color=2E9EF7&icon_color=2E9EF7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epciba-io&layout=compact&theme=tokyonight&title_color=2E9EF7)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=epciba-io&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=epciba-io&theme=tokyonight&ring=2E9EF7&fire=2E9EF7)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+### 🏆 Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=epciba-io&theme=tokyonight&no-frame=true&row=1&column=6)
+
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=epciba-io&theme=tokyo-night&color=2E9EF7&line=2E9EF7&point=ffffff)
