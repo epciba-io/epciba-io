@@ -25,9 +25,7 @@ HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 ![PHP](https://img.shields.io/badge/PHP-A855F7?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-A855F7?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/da/1d/dc/da1ddc79b5d815b6260855536c3df8fd.gif" width="450"/>
-</p>
+
 
 **Frameworks & Libraries**
 ![Node.js](https://img.shields.io/badge/Node.js-A855F7?style=for-the-badge&logo=node.js&logoColor=white)
