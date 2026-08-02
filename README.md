@@ -18,7 +18,7 @@ HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 
 ### 🧰 Skills & Tools
 
-**Programming Languages**
+- Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-A855F7?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white)
@@ -27,20 +27,20 @@ HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 
 
 
-**Frameworks & Libraries**
+- Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-A855F7?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-A855F7?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-A855F7?style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-A855F7?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Databases**
+- Databases
 ![MySQL](https://img.shields.io/badge/MySQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-A855F7?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Version Control**
+- Version Control
 ![GitHub](https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white)
 
-**Development & IT Tools**
+- Development & IT Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-A855F7?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-A855F7?style=for-the-badge&logo=xampp&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-A855F7?style=for-the-badge&logo=jira&logoColor=white)
