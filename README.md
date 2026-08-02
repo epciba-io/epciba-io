@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Epciba
 
 HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full-Stack+Developer;MERN+Stack+Enthusiast)](https://git.io/typing-svg)
 
