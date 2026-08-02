@@ -1,7 +1,7 @@
 ## Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30" alt="waving hand"/> It's me Epciba
 
 HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full-Stack+Developer;MERN+Stack+Enthusiast)](https://git.io/typing-svg)
 
