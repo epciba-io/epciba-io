@@ -60,8 +60,8 @@ HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-A855F7?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📊 GitHub Stats
-![Epciba's GitHub stats](https://github-readme-stats-two-zeta-34.vercel.app/api?username=epciba-io&theme=dracula&show_icons=true&hide=issues,contribs&title_color=A855F7&icon_color=A855F7)
-![Top Langs](https://github-readme-stats-two-zeta-34.vercel.app/api/top-langs/?username=epciba-io&layout=compact&theme=dracula&title_color=A855F7)
+![Epciba's GitHub stats](https://github-stats-extended.vercel.app/api?username=epciba-io&theme=dracula&show_icons=true&hide=issues,contribs&title_color=A855F7&icon_color=A855F7)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=epciba-io&layout=compact&theme=dracula&title_color=A855F7)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=epciba-io&theme=dracula&ring=A855F7&fire=A855F7)
 
