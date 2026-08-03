@@ -1,9 +1,8 @@
 ## Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30" alt="waving hand"/> It's me Epciba
 
-HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
-<img align="right" width="370" height="260" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full-Stack+Developer;MERN+Stack+Enthusiast)](https://git.io/typing-svg)
 
-## My Contribution Graph
+ ## My Contribution Graph
 
 <!-- pacman -->
 <picture>
@@ -12,13 +11,15 @@ HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/epciba-io/epciba-io/output/pacman-contribution-graph.svg">
 </picture>
 
+HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
+
 - 🎓 Currently pursuing my **Higher National Diploma in Information Technology (HNDIT)** at Advanced Technological Institute, Trincomalee
 - 🔭 Working on **Workmate**, a full-stack household employee booking service system
 - 🌱 I'm currently learning and building projects with the **MERN stack**
 - 💡 Interested in full-stack development and writing clean, reliable code
 - 📍 Based in Trincomalee, Sri Lanka
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full-Stack+Developer;MERN+Stack+Enthusiast)](https://git.io/typing-svg)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=epciba-io&color=A855F7&style=for-the-badge)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Internships-A855F7?style=for-the-badge)
