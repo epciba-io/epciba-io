@@ -1,6 +1,6 @@
 ## Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30" alt="waving hand"/> It's me Epciba
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=HNDIT+Student;Software+Engineer;Full-Stack+Developer;Web+Developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=epciba-io;HNDIT+Student;Software+Engineer;Full-Stack+Developer;Web+Developer)](https://git.io/typing-svg)
 
 
 
