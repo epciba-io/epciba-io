@@ -66,8 +66,7 @@ HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 ![GitHub Streak](https://streak-stats.demolab.com/?user=epciba-io&theme=dracula&ring=A855F7&fire=A855F7)
 
 ### 🏆 Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=epciba-io&theme=dracula&no-frame=true&row=1&column=6)
-
+![trophy](https://github-profile-trophy-woad-phi.vercel.app/?username=epciba-io&theme=dracula&no-frame=true&row=1&column=6)
 
 
 ### 📈 Activity Graph
