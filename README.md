@@ -2,7 +2,7 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Web+Developer)](https://git.io/typing-svg)
 
- ## My Contribution Graph
+
 
 <!-- pacman -->
 <picture>
