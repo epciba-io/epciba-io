@@ -3,8 +3,14 @@
 HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 <img align="right" width="370" height="260" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-### 👾 Pac-Man Contribution Graph
-![pacman contribution graph](https://raw.githubusercontent.com/epciba-io/epciba-io/output/dist/pacman-contribution-graph-dark.svg)
+## My Contribution Graph
+
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/epciba-io/epciba-io/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/epciba-io/epciba-io/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/epciba-io/epciba-io/output/pacman-contribution-graph.svg">
+</picture>
 
 - 🎓 Currently pursuing my **Higher National Diploma in Information Technology (HNDIT)** at Advanced Technological Institute, Trincomalee
 - 🔭 Working on **Workmate**, a full-stack household employee booking service system
