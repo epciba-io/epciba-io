@@ -1,0 +1,25 @@
+name: generate pacman contribution graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: generate pacman contribution graph
+        uses: matchai/pacman-contribution-graph@v1.0.0
+        with:
+          github_user_name: epciba-io
+          theme: gitBlue
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
