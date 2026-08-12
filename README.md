@@ -14,8 +14,7 @@
 HNDIT Student | Aspiring Software Engineer & Full-Stack Developer
 
 - 🎓 Currently pursuing my **Higher National Diploma in Information Technology (HNDIT)** at Advanced Technological Institute, Trincomalee
-- 🔭 Working on **Workmate**, a full-stack household employee booking service system
-- 🌱 I'm currently learning and building projects with the **MERN stack**
+- 🔭 I create **Workmate**, a full-stack household employee booking service system
 - 💡 Interested in full-stack development and writing clean, reliable code
 - 📍 Based in Trincomalee, Sri Lanka
 
